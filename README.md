@@ -32,7 +32,7 @@ An important thing about NER models is that their ability to understand Named En
 
 NER can be used for content classification, the various Named Entities of a text can be collected, and based on that data, the content themes can be understood. In academics and research, NER can be used to retrieve data and information faster from a wide variety of textual information. NER helps a lot in the case of information extraction from huge text datasets.
 
-#Citation
+# Citation
 
 My code/repository is inspired from the link below:
 
